@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//chidinma Chukwu
 List::List(void)
 {size = 0;}
 
