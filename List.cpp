@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//chidinma Chukwu
+//List created on christmas day
 List::List(void)
 {size = 0;}
 
