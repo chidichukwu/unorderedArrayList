@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//List created on christmas day
+//BSc IT 2021
 List::List(void)
 {size = 0;}
 

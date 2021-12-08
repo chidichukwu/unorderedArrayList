@@ -5,7 +5,7 @@
 #include "list.h"
 #include <iostream>
 
-//chidi
+//BSc IT 2021
 int _tmain(int argc, _TCHAR* argv[])
 {
 List L;
